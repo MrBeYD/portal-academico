@@ -1,0 +1,11 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nome utilizador": "Rui Anderson",
+            "email": "alexandrerui993@gmail.com",
+            "senha": "Bedafama24", 
+            "tipo": "admin"
+        }
+    ]
+}
